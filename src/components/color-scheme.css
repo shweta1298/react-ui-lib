@@ -1,0 +1,8 @@
+.color-scheme-light{
+    background-color: white;
+    --primary-color: #008cba;
+}
+.color-scheme-dark{
+    background-color: black;
+    --primary-color: #494d4e;
+}
